@@ -1,6 +1,6 @@
 
 # Cross-modal Coherence Modeling for Caption Generation
-## Malihe Alikhani(Rutgers), Piyush Sharma(Google), Shengjie Li(Rutgers), Radu Soricut(Google), Matthew Stone(Rutgers)
+## Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut, Matthew Stone
 
 We use coherence relations inspired by computational models of discourse to study the information needs and goals of image captioning.
 Using an annotation protocol specifically devised for capturing image--caption coherence relations, we annotate 10,000 instances from publicly-available image--caption pairs.
