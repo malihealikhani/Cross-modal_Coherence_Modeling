@@ -1,5 +1,3 @@
-### This repo includes the code and data for the following paper accepted at ACL-2020.
-### The camera-ready version with more experiments will be avaiavbel soon.
 
 # Cross-modal Coherence Modeling for Caption Generation
 ## Malihe Alikhani(Rutgers), Piyush Sharma(Google), Shengjie Li(Rutgers), Radu Soricut(Google), Matthew Stone(Rutgers)
